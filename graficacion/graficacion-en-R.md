@@ -1,6 +1,3 @@
----
-title: Graficacion en R
----
 
 # **INFERENCIA ESTADISTICA**
 ---
