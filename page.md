@@ -161,7 +161,8 @@ head(datos)
 
 
 <table>
-<caption>A tibble: 6 × 16</caption>
+	width: 50%;
+	height: 300px;
 <thead>
 	<tr><th scope=col>ENT</th><th scope=col>Entidad</th><th scope=col>MUN</th><th scope=col>Municipio</th><th scope=col>Alf</th><th scope=col>Asi</th><th scope=col>EBC</th><th scope=col>Der</th><th scope=col>Pis</th><th scope=col>San</th><th scope=col>Agu</th><th scope=col>Dre</th><th scope=col>Ele</th><th scope=col>Lav</th><th scope=col>Ref</th><th scope=col>Ing</th></tr>
 	<tr><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>
