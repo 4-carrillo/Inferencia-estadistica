@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Inferencia estadistica 
 
-You can use the [editor on GitHub](https://github.com/4-carrillo/inferencia-estadistica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui podran encontrar todos los codigos de R vistos en clase, al igual que material de apoyo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Entradas
 
-### Markdown
+1) [**Introduccion a R**](https://github.com/4-carrillo/Inferencia-estadistica/blob/main/Introduccion%20a%20R/Introducci%C3%B3n%20R.R)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2) [**Estadistica descriptiva**](https://github.com/4-carrillo/Inferencia-estadistica/blob/main/Estadistica%20descriptiva/Estad%C3%ADstica%20descriptiva.R)
 
-```markdown
-Syntax highlighted code block
+3) [**Graficacion en R**](https://4-carrillo.github.io/inferencia-estadistica/graficacion/graficacion-en-R)<br>
+3.1) [Script de R](https://github.com/4-carrillo/Inferencia-estadistica/blob/main/Graficacion%20en%20R/graficacion.R)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4-carrillo/inferencia-estadistica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Dudas
+Correo: alexiscarrillo.medina@ciencias.unam.mx
