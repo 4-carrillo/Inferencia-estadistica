@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Graficacion en R"
 permalink: https://4-carrillo.github.io/inferencia-estadistica/graficacion/graficacion-en-R
 ---
