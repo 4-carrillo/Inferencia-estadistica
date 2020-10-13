@@ -16,4 +16,4 @@ Aqui podran encontrar todos los codigos de R vistos en clase, al igual que mater
 3.1) [Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion.R)
 
 ## Dudas
-Correo: [Alexis](alexiscarrillo.medina@ciencias.unam.mx)
+Correo: [Alexis](mailto:alexiscarrillo.medina@ciencias.unam.mx)
