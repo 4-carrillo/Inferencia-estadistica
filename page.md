@@ -1,5 +1,5 @@
 ---
-title = holis
+title: holis
 ---
 
 PAgina de prueba
