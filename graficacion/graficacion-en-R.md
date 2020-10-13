@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Graficacion en R"
+permalink: https://4-carrillo.github.io/inferencia-estadistica/graficacion/README
+---
+
 # **INFERENCIA ESTADISTICA**
 ---
 ## **Introduccion a la graficacion en R**
