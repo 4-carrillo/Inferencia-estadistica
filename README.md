@@ -8,7 +8,7 @@ Aqui podran encontrar todos los codigos de R vistos en clase, al igual que mater
 
 2) [**Estadistica descriptiva**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Estadistica-descriptiva/Estad%C3%ADstica-descriptiva.R)
 
-3) [**Graficacion en R**](https://4-carrillo.github.io/inferencia-estadistica/graficacion/graficacion-en-R)<br>
+3) [**Graficacion en R**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion-en-R/README.md)<br>
 3.1) [Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion.R)
 
 ## Dudas
