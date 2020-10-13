@@ -1,5 +1,5 @@
 ---
-title: "Graficacion en R"
+title: Graficacion en R
 ---
 
 # **INFERENCIA ESTADISTICA**
