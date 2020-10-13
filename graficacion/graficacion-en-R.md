@@ -1,5 +1,5 @@
 ---
-title: "Holis"
+title: "Graficacion en R"
 ---
 
 # **INFERENCIA ESTADISTICA**
