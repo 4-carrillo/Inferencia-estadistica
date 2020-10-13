@@ -1,3 +1,7 @@
+---
+title: "Indice"
+---
+
 # Inferencia estadistica 
 
 Aqui podran encontrar todos los codigos de R vistos en clase, al igual que material de apoyo. 
@@ -12,4 +16,4 @@ Aqui podran encontrar todos los codigos de R vistos en clase, al igual que mater
 3.1) [Script de R](https://github.com/4-carrillo/Inferencia-estadistica/blob/main/Graficacion%20en%20R/graficacion.R)
 
 ## Dudas
-Correo: alexiscarrillo.medina@ciencias.unam.mx
+Correo: [mailto](alexiscarrillo.medina@ciencias.unam.mx)
