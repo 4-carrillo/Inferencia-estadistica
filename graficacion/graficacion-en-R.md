@@ -152,31 +152,13 @@ str(datos)
       .. )
 
 
-Ver el encabezado de nuestra base de datos
-
+Ver el encabezado de nuestra base de datos <br>
+En este caso no lo imprimiremos, pero este es comando <br>
+Mas adelante veremos un ejemplo
 
 ```R
 head(datos)
 ```
-
-
-<table>
-<caption>A tibble: 6 × 16</caption>
-<thead>
-	<tr><th scope=col>ENT</th><th scope=col>Entidad</th><th scope=col>MUN</th><th scope=col>Municipio</th><th scope=col>Alf</th><th scope=col>Asi</th><th scope=col>EBC</th><th scope=col>Der</th><th scope=col>Pis</th><th scope=col>San</th><th scope=col>Agu</th><th scope=col>Dre</th><th scope=col>Ele</th><th scope=col>Lav</th><th scope=col>Ref</th><th scope=col>Ing</th></tr>
-	<tr><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;chr&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th></tr>
-</thead>
-<tbody>
-	<tr><td>1</td><td>Aguascalientes </td><td>1</td><td>Aguascalientes </td><td>0.9794300</td><td>0.9652139</td><td>0.7362548</td><td>0.8540276</td><td>0.9945157</td><td>0.9905164</td><td>0.9933649</td><td>0.9951757</td><td>0.9978071</td><td>0.8627699</td><td>0.9468805</td><td>15862.251</td></tr>
-	<tr><td>1</td><td>Aguascalientes </td><td>3</td><td>Calvillo       </td><td>0.9521950</td><td>0.9560942</td><td>0.5067098</td><td>0.9033228</td><td>0.9894113</td><td>0.9873641</td><td>0.9904701</td><td>0.9913172</td><td>0.9942821</td><td>0.8453339</td><td>0.9272201</td><td>12184.698</td></tr>
-	<tr><td>1</td><td>Aguascalientes </td><td>5</td><td>Jesús María    </td><td>0.9675548</td><td>0.9587029</td><td>0.6599699</td><td>0.8594334</td><td>0.9907879</td><td>0.9869091</td><td>0.9905455</td><td>0.9927273</td><td>0.9950130</td><td>0.8459567</td><td>0.9191688</td><td>23820.588</td></tr>
-	<tr><td>1</td><td>Aguascalientes </td><td>7</td><td>Rincón de Romos</td><td>0.9649133</td><td>0.9773307</td><td>0.6759579</td><td>0.8917998</td><td>0.9907506</td><td>0.9674224</td><td>0.9842023</td><td>0.9739707</td><td>0.9919784</td><td>0.7824343</td><td>0.8855693</td><td> 8753.307</td></tr>
-	<tr><td>2</td><td>Baja California</td><td>1</td><td>Ensenada       </td><td>0.9643934</td><td>0.9662187</td><td>0.6596109</td><td>0.8619705</td><td>0.9855645</td><td>0.8533928</td><td>0.9266327</td><td>0.9117085</td><td>0.9859258</td><td>0.7959839</td><td>0.9129551</td><td>14037.231</td></tr>
-	<tr><td>2</td><td>Baja California</td><td>2</td><td>Mexicali       </td><td>0.9845785</td><td>0.9695408</td><td>0.7295352</td><td>0.8452478</td><td>0.9918143</td><td>0.9510441</td><td>0.9870668</td><td>0.9667437</td><td>0.9922208</td><td>0.8641671</td><td>0.9659203</td><td>17977.196</td></tr>
-</tbody>
-</table>
-
-
 
 Para poder entender la base de datos, necesitamos una descripcion
 
