@@ -1,3 +1,7 @@
+---
+title: "Simulacion en R"
+---
+
 # **INFERENCIA ESTADISTICA**
 ---
 ## **Simulacion de variables aleatorias en R**
