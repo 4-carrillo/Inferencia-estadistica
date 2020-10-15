@@ -9,7 +9,10 @@ Aqui podran encontrar todos los codigos de R vistos en clase, al igual que mater
 2) [**Estadistica descriptiva**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Estadistica-descriptiva/Estad%C3%ADstica-descriptiva.R)
 
 3) [**Graficacion en R**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion-en-R/README.md)<br>
-3.1) [Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion.R)
+3.1) [Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Graficacion-en-R/graficacion.R) <br>
+
+4)[**Simulacion de variables aleatorias**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Simulacion-de-variables-aleatorias-en-R/Simulacion-en-R.ipynb)
+4.1)[Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Simulacion-de-variables-aleatorias-en-R/simulacion.R)
 
 ## Dudas
 Correo: [alexiscarrillo.medina@ciencias.unam.mx](mailto:alexiscarrillo.medina@ciencias.unam.mx)
