@@ -14,5 +14,7 @@ Aqui podran encontrar todos los codigos de R vistos en clase, al igual que mater
 4) [**Simulacion de variables aleatorias**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Simulacion-de-variables-aleatorias-en-R/Simulacion-en-R.ipynb)<br>
 4.1) [Script de R](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Simulacion-de-variables-aleatorias-en-R/simulacion.R)
 
+5)[**Desenlace de R**](https://github.com/4-carrillo/inferencia-estadistica/blob/main/Desenlace-R/Desenlace-introducci%C3%B3n-a-R.R)
+
 ## Dudas
 Correo: [alexiscarrillo.medina@ciencias.unam.mx](mailto:alexiscarrillo.medina@ciencias.unam.mx)
